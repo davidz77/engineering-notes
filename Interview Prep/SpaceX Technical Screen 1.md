@@ -49,7 +49,7 @@ SPI is also often used for connecting short-distanced devices within an embedded
 
 [(21) Calder Coalson | LinkedIn](https://www.linkedin.com/in/caldercoalson/)
 
-![[Pasted image 20251113191245.png]]
+![[calder_linkedin.png]]
 
 650 satellites currently gen 1 
 7 people 

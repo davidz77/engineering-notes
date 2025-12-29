@@ -125,7 +125,7 @@ we don't know targets of jumps at static analysis time
 Solution:
 SPC - source PC
 TPC - target PC
-![[Pasted image 20251126154338.png]]
+![[virtualization_423.png]]
 Can only do the thing above on fixed destination jumps
 
 Register Indirect Jumps?
